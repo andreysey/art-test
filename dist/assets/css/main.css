@@ -558,11 +558,6 @@ h4 {
   line-height: 2em /* the same as height */
 ;
 }
-
-.status {
-  text-align: center;
-}
-
 .calc .file_upload > button {
   float: right;
   width: 8em;
